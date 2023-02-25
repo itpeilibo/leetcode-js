@@ -9,7 +9,7 @@ hero:
     - text: 开始
       link: /js-logs
     - text: GitHub
-      link: 
+      link: https://github.com/itpeilibo/leetcode-js
 features:
   - title: 分类
     emoji: 🔖
