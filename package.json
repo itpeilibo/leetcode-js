@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d dist"
   },
   "authors": [
-    "1961018000@qq.com"
+    "tong_guan1024@163.com"
   ],
   "license": "MIT",
   "commitlint": {
